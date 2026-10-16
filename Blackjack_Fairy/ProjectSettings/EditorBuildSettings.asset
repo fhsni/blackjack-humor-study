@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Robot2_win1.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 0
+    path: Assets/Scenes/New Folder/SampleScene 1.unity
+    guid: 2d8452a79a6e34ec7b7e35eb246a074a
+  - enabled: 1
+    path: Assets/Scenes/Robot2_win2.unity
+    guid: 43532ab3320314b35bc4d2a80434b83a
+  - enabled: 1
+    path: Assets/Scenes/Robot2_lose1.unity
+    guid: 5578c512b41b84b2a9ee8ba0662fe0a0
+  - enabled: 1
+    path: Assets/Scenes/Robot2_lose2.unity
+    guid: a1e5d7085d00449b7b8cee7056b60b55
+  - enabled: 1
+    path: Assets/Scenes/Robot2_win3.unity
+    guid: 8a947a3f2698943999017e488846d207
+  - enabled: 1
+    path: Assets/Scenes/Robot2_lose3.unity
+    guid: f639a74a72cab48b99dd264b3d40daae
+  - enabled: 1
+    path: Assets/Scenes/Robot2_win4.unity
+    guid: b690ba831c83743d482f285b62b4dd95
+  - enabled: 1
+    path: Assets/Scenes/Robot2_lose4.unity
+    guid: 150a27dc64a66443a8b7868bb86a9437
+  - enabled: 1
+    path: Assets/Scenes/Robot2_lose5.unity
+    guid: 4fff0fbca39144b63b7f1ab464bd85f4
+  - enabled: 1
+    path: Assets/Scenes/Robot2_win5.unity
+    guid: ea862a4d701354525821b3f519d8e089
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
